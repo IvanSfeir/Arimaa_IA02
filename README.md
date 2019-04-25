@@ -1,3 +1,10 @@
+# Arimaa
+## Implementing an AI Arimaa player in Prolog
+
+Course: IA02 (Spring 17)
+
+**Original README:**
+
 [Works only for Unix and Windows, not for Mac]
 
 # Prolog-Arimaa
